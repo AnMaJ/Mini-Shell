@@ -1,5 +1,5 @@
 # Mini-Shell
-Mini Shell in C ++ implementing the basic command line functionalities 
+Mini Shell in C implementing the basic command line functionalities 
 ## Instructions to execute the shell:
 1. Download the readline library using the following command one the terminal : $ sudo apt-get install libreadline-dev
 Or if you have home-brew installed, directly type : brew install readline
